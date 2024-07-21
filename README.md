@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am fun and dedicated human being
+I am a fun and dedicated human being
+
 https://docs.google.com/document/d/10OAmh3ZWSn3zFMWdzj0foxxVSTXCrII7R1R0bDT-puQ/edit?usp=sharing
