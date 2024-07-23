@@ -10,8 +10,7 @@ cv:(https://docs.google.com/document/d/1ut8NRpv59XGV-qt1ZylhwSPPwptCMfMOiiL773va
 
 Here are some additional resources and links:
 
-- Project Portfolio: https://example.com/portfolio
-- Blog: https://example.com/blog
-- Github: https://github.com/username
+- Project Portfolio: whimsical-tartufo-157116.netlify.app/
+- Github: https://github.com/sabella-8
 
 Feel free to check out my work and connect with me on LinkedIn!
